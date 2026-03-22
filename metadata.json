@@ -1,0 +1,5 @@
+{
+  "name": "ANIK API - Minecraft Server Status & Media API",
+  "description": "A high-performance API for tracking Minecraft Java and Bedrock server status, player heads, and server icons.",
+  "requestFramePermissions": []
+}
